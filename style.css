@@ -1,4 +1,5 @@
 h1 {
+
     display: inline;
     position: absolute;
     top: 20%;
@@ -14,6 +15,7 @@ h1 {
 }
 
 p {
+
     color: aliceblue;
     font-family: "Roboto", sans-serif;
     display: inline;
